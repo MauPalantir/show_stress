@@ -1,0 +1,147 @@
+stressmarks:
+  a: á
+  e: é
+  i: í
+  o: ó
+  u: ú
+  y: ý
+IPA:
+  vowels:
+    - ɔ
+    - ɑ
+    - i
+    - u
+    - ɛ
+    - ɪ
+    - ʊ
+    - ʌ
+    - ə
+    - æ
+  diphtongs:
+    - eɪ
+    - aɪ
+    - oʊ
+    - aʊ
+    - ɔɪ
+    - ju
+  rphtongs:
+    - ɝ
+    - ɚ
+    - ɛr
+    - ʊr
+    - ɔr
+    - ɑr
+    - ɪr
+  consonants: p t k b d g tʃ dʒ f v θ ð s z w ʃ ʒ h m m̩ n n̩ ŋ ŋ̍ ɫ ɫ̩ r ɾ ɾ̃ j w ʔ
+
+renderings:
+  ɔ:
+    - o
+    - a
+    - au
+    - ough
+  ɑ:
+    - a
+    - o
+  i:
+    - e
+    - ee
+    - i
+    - y
+    - ea
+  u:
+    - oo
+    - ew
+    - ou
+    - o
+  ɛ:
+    - e
+  ɪ:
+    - e
+    - i
+    - y
+  ʊ:
+    - u
+    - ou
+    - oo
+    - o
+  ʌ:
+    - u
+  ju:
+    - u
+    - eau
+  ə:
+    - a
+    - e
+    - i
+    - o
+    - u
+  æ:
+    - a
+  eɪ:
+    - ay
+    - ei
+    - a
+    - ai
+  aɪ:
+    - y
+    - i
+    - ie
+  oʊ:
+    - o
+    - ow
+    - oa
+    - a
+  aʊ:
+    - ow
+    - ou
+  ɔɪ:
+    - oy
+    - oi
+  ɝ:
+    - er
+    - ir
+    - ur
+  ɚ:
+    - ar
+    - er
+  ɛr:
+    - air
+    - ere
+  ʊr:
+    - ur
+    - our
+  ɔr: or
+  ɑr:
+    - ar
+    - or
+  ɪr: ear
+
+  p: p
+  t: t
+  k:
+    - c
+    - ck
+  b: b
+  d:
+    - d
+  g: g gu
+  tʃ: ch
+  dʒ: j g dge
+  f: f gh p
+  v:
+    - v
+    - f
+  θ: th
+  ð: th
+  s: s
+  z: z s
+  ʃ: sh tio
+  ʒ: s
+  h: h
+  m: m
+  m̩: m
+  n: n
+  n̩: n
+  ŋ: ng
+  ŋ̍: ng
